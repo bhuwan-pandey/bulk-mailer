@@ -1,0 +1,1 @@
+pkg package.json --options max_old_space_size=8192,expose-gc
